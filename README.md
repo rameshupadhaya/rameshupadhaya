@@ -1,3 +1,5 @@
+<img align="left" alt="Ramesh Upadhaya" src="https://avatars.githubusercontent.com/u/27073370?s=460&u=88c6e5c3d13ecd035ebea93520fe9cd08358a1f9&v=4" width="160px" />
+
 ### Hi there, I'm [Ramesh!](https://rameshupadhaya.github.io/) 👋
 
 <a href="https://linkedin.com/in/rameshupadhaya">
