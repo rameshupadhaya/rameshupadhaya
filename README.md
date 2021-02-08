@@ -1,4 +1,3 @@
-<img align="right" alt="Ramesh Upadhaya" src="https://raw.githubusercontent.com/rameshupadhaya/rameshupadhaya/main/assets/avatar.png" width="250px" />
 
 ### Hi there, I'm [Ramesh!](https://rameshupadhaya.github.io/) 👋
 
