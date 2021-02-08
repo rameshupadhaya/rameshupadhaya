@@ -33,7 +33,6 @@ Mobile App Development - Android & IOS (React Native, Xamarin.forms)
 Full Stack Development <br/>
 (HTML5, CSS3, Saas, Bootstrap, JavaScript, PHP, MySQL)
 <br />
-<br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
@@ -46,7 +45,6 @@ Full Stack Development <br/>
 MEAN/MERN Stack Development <br />
 (React, TypeScript, ES6, Angular, NodeJS, MongoDb, Severless)
 <br />
-<br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
@@ -55,11 +53,9 @@ MEAN/MERN Stack Development <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <br />
 <br />
-
 Managed Solutions:<br />
 GCP, cPanel, AWS, AWS Lamda, AWS Amplify, AWS EC2, Azure, Firebase 
 
-<br />
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
