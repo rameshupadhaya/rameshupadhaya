@@ -19,12 +19,66 @@
 <br />
 <br />
 
-Hi, I'm Ramesh Upadhaya, a Full Stack Developer from India
+A Full Stack Developer from India. 
+
+I get things done.
+
+Expertise In:
+
+Mobile App Development - Android & IOS
+(React Native, Xamarin)
+
+Full Stack Development
+(HTML5, CSS3, Saas, Bootstrap4, Modular JavaScript, Jquery, PHP, MySQL, REST API)
+
+MEAN/MERN Stack Development
+(React, Angular2/4/5/7/8, NodeJS, MongoDb, Hooks, HOC), Severless
+
+Wordpress Development
+(Custom Themes, PSD to HTML & more)
+
+Version Controls Used:
+Github, GitLab, Bitbucket, CloudForge
+
+Issue Tracking:
+JIRA, Trello, Asana
+
+Error Tracking:
+Sentry
+
+Managed Solutions:
+GCP, cPanel, AWS, AWS Lamda, AWS Amplify, AWS EC2, Azure
+
+Custom E-Commerce App/Web Apps/ PWA Development,
+UI/UX Designing ,
+REST API Creation,
+Payment Gateway Integration,
+SMS Gateway & OTP integration,
+Secure Coding Practices ( CSRF Protection, SQL Injection Prevention ).
+SSL Configuration,
+Social OAuth,
+Security Analysis & Testing,
+Site Hosting & Domain Management,
+Hands on in managing AWS, Azure, Google Cloud, Digital Ocean, Vultr, Wpengine, Cpanel etc.
+
+Primarily focused on Coding Best Practices, Intuitive Experience & Enhanced Security for your Website/App.
+
+Principles:
+- DRY (Don't Repeat Yourself)
+- KISS (Keep it Simple, Stupid)
+- SOLID 
+- TDD (just starting)
 
 **Languages and Tools:**  
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"></code>
