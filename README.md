@@ -1,9 +1,6 @@
 
 ### Hi there, I'm [Ramesh!](https://rameshupadhaya.github.io/) 👋
 
-<br />
-<br />
-
 A Full Stack Developer with 5+ years of experience developing Web & Mobile Apps from India. 
 
 ### I get things done.
