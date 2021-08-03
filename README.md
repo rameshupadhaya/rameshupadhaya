@@ -1,22 +1,6 @@
 
 ### Hi there, I'm [Ramesh!](https://rameshupadhaya.github.io/) 👋
 
-<a href="https://linkedin.com/in/rameshupadhaya">
-  <img align="left" alt="Ramesh Upadhaya | LinkedIn" width="20px" src="https://raw.githubusercontent.com/rameshupadhaya/rameshupadhaya/main/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/ramesh_upadhaya">
-  <img align="left" alt="Ramesh Upadhaya | Twitter" width="21px" src="https://raw.githubusercontent.com/rameshupadhaya/rameshupadhaya/main/assets/twitter.svg" />
-</a>
-<a href="https://facebook.com/itsrameshx">
-  <img align="left" alt="Ramesh Upadhaya | Facebook" width="21px" src="https://raw.githubusercontent.com/rameshupadhaya/rameshupadhaya/main/assets/facebook.svg" />
-</a>
-<a href="https://instagram.com/ramesh_upadhaya">
-  <img align="left" alt="Ramesh Upadhaya | Instagram" width="21px" src="https://raw.githubusercontent.com/rameshupadhaya/rameshupadhaya/main/assets/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCNA7b7x7_cZmQvthAyROpjw">
-  <img align="left" alt="Ramesh Upadhaya | YouTube" width="21px" src="https://raw.githubusercontent.com/rameshupadhaya/rameshupadhaya/main/assets/youtube.svg" />
-</a>
-
 <br />
 <br />
 
@@ -48,3 +32,22 @@ Principles:
 - KISS (Keep it Simple, Stupid)
 - SOLID 
 - TDD (WIP)
+
+### Social Media
+
+<a href="https://linkedin.com/in/rameshupadhaya">
+  <img align="left" alt="Ramesh Upadhaya | LinkedIn" width="20px" src="https://raw.githubusercontent.com/rameshupadhaya/rameshupadhaya/main/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/ramesh_upadhaya">
+  <img align="left" alt="Ramesh Upadhaya | Twitter" width="21px" src="https://raw.githubusercontent.com/rameshupadhaya/rameshupadhaya/main/assets/twitter.svg" />
+</a>
+<a href="https://facebook.com/itsrameshx">
+  <img align="left" alt="Ramesh Upadhaya | Facebook" width="21px" src="https://raw.githubusercontent.com/rameshupadhaya/rameshupadhaya/main/assets/facebook.svg" />
+</a>
+<a href="https://instagram.com/ramesh_upadhaya">
+  <img align="left" alt="Ramesh Upadhaya | Instagram" width="21px" src="https://raw.githubusercontent.com/rameshupadhaya/rameshupadhaya/main/assets/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCNA7b7x7_cZmQvthAyROpjw">
+  <img align="left" alt="Ramesh Upadhaya | YouTube" width="21px" src="https://raw.githubusercontent.com/rameshupadhaya/rameshupadhaya/main/assets/youtube.svg" />
+</a>
+
